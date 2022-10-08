@@ -1,0 +1,12 @@
+.Whole{
+    height: 20rem;
+    width: 100%;
+    background-color: antiquewhite;
+    display: flex;
+    margin: 4rem 0rem;
+    overflow: scroll;
+}
+.card{
+    /* padding: 2rem; */
+    margin: 2rem;
+}
